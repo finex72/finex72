@@ -1,16 +1,75 @@
-# 👋 Hi, ich bin Noele!
-
-🎓 **9. Klasse Gymnasium** | 🌍 **Hamburg, Deutschland** | 💻 **Angehender Web-Entwickler**
-
-Ich lerne **Frontend Development** und baue coole Projekte mit **HTML, CSS, JavaScript** und später **React**. Nebenbei interessiere ich mich für **Segelflug ✈️**, **Gaming 🎮** und **Fitness 💪**.
 
 ---
 
-## 🚀 Was ich gerade lerne
-const noele = {
-currentFocus: "JavaScript Basics & DOM Manipulation",
-learningNext: ["React ⚛️", "Python 🐍", "APIs 🌐"],
-tools: ["VS Code", "Git", "GitHub", "Figma"],
-hobbies: ["Segelflug", "Gaming", "Calisthenics", "Music Production"]
-};
+## 🛠️ Tech Stack
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📂 Meine Projekte
+
+### 🎯 [JavaScript-Basics](https://github.com/finex72/JavaScript-Basics)
+Mini-Projekte zum Lernen: Speedlimit-Checker, Counter, Random Generator
+
+### ⚛️ [Roadmap-App](https://github.com/finex72/Roadmap-App)
+Interaktive Lern-Roadmap für Web Development mit localStorage
+
+### 🎮 [Portfolio](https://github.com/finex72/Portfolio) _(coming soon)_
+Mein persönliches Portfolio mit allen Projekten
+
+---
+
+## 📊 GitHub Stats
+
+![Noele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=finex72&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=finex72&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=finex72&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+
+---
+
+## 🎯 Meine Ziele 2025
+
+- ✅ JavaScript Basics meistern
+- ⏳ React lernen
+- ⏳ Erstes Full-Stack Projekt
+- ⏳ Open Source beitragen
+- ⏳ 100+ GitHub Contributions
+
+---
+
+## 🌐 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-finex72-181717?style=for-the-badge&logo=github)](https://github.com/finex72)
+[![Discord](https://img.shields.io/badge/Discord-Noele-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+
+---
+
+## 💡 Fun Facts
+
+- 🛩️ Ich fliege **Segelflugzeuge** (Gliders)
+- 🎮 Lieblingsspiele: **Arma Reforger**, **Hearts of Iron IV**
+- 🎵 Ich mache **Musik** und **Webdesign**
+- 📚 Ich nutze **Anki** für optimales Lernen
+- 🏋️ Fitness-Fan: **Calisthenics** & **5km Läufe**
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=finex72&theme=react-dark&hide_border=true&area=true)
+
+---
+
+**✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+---
+
+_Letztes Update: November 2025_
