@@ -17,12 +17,6 @@
 ### 🎯 [JavaScript-Basics](https://github.com/finex72/JavaScript-Basics)
 Mini-Projekte zum Lernen: Speedlimit-Checker, Counter, Random Generator
 
-### ⚛️ [Roadmap-App](https://github.com/finex72/Roadmap-App)
-Interaktive Lern-Roadmap für Web Development mit localStorage
-
-### 🎮 [Portfolio](https://github.com/finex72/Portfolio) _(coming soon)_
-Mein persönliches Portfolio mit allen Projekten
-
 ---
 
 ## 📊 GitHub Stats
@@ -42,23 +36,6 @@ Mein persönliches Portfolio mit allen Projekten
 - ⏳ Erstes Full-Stack Projekt
 - ⏳ Open Source beitragen
 - ⏳ 100+ GitHub Contributions
-
----
-
-## 🌐 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-finex72-181717?style=for-the-badge&logo=github)](https://github.com/finex72)
-[![Discord](https://img.shields.io/badge/Discord-Noele-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-
----
-
-## 💡 Fun Facts
-
-- 🛩️ Ich fliege **Segelflugzeuge** (Gliders)
-- 🎮 Lieblingsspiele: **Arma Reforger**, **Hearts of Iron IV**
-- 🎵 Ich mache **Musik** und **Webdesign**
-- 📚 Ich nutze **Anki** für optimales Lernen
-- 🏋️ Fitness-Fan: **Calisthenics** & **5km Läufe**
 
 ---
 
