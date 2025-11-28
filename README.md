@@ -7,5 +7,10 @@ Ich lerne **Frontend Development** und baue coole Projekte mit **HTML, CSS, Java
 ---
 
 ## 🚀 Was ich gerade lerne
-
+const noele = {
+currentFocus: "JavaScript Basics & DOM Manipulation",
+learningNext: ["React ⚛️", "Python 🐍", "APIs 🌐"],
+tools: ["VS Code", "Git", "GitHub", "Figma"],
+hobbies: ["Segelflug", "Gaming", "Calisthenics", "Music Production"]
+};
 
