@@ -11,11 +11,3 @@ Senkt automatisch die Spotify-Lautstärke, solange du deine Push-to-Talk-Taste (
 Eine einzige `.exe`, keine Installation, Einrichtung per Knopfdruck.
 
 [⬇️ Download](https://github.com/finex72/talkdown/releases/latest) · [📖 Details](https://github.com/finex72/talkdown#readme)
-
-## 📬 Kontakt
-
-Ideen, Bugs oder Wünsche? Eröffne gern ein **Issue** im jeweiligen Projekt.
-
-- Flugplatz: Ich habe „Nordholz-Spieka“ geschrieben, so heißt der Platz meines Wissens. In deiner Nachricht stand „Spieker“. Wenn das bei dir anders geschrieben wird, ändere es.
-- Name: Ich habe „L“ übernommen und „Noel“ komplett weggelassen.
-- Lizenz: In der LICENSE von TalkDown steht noch „Noel“. Das ist öffentlich sichtbar. Wenn du nur „L“ zeigen willst, ändere ich das und lade es hoch.
