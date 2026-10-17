@@ -1,4 +1,4 @@
-# Hi, ich bin L 👋
+# Hi, ich bin NoeL 👋
 
 Segelflieger am **Flugplatz Nordholz-Spieka** ✈️ und gelegentlich auch im **Microsoft Flight Simulator** unterwegs.
 
