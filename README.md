@@ -1,48 +1,23 @@
+# Hi, ich bin Noel 👋
 
----
+Ich baue kleine Tools, die mir im Alltag und beim Fliegen im Flugsimulator das Leben leichter machen – und teile sie hier.
 
-## 🛠️ Tech Stack
+## 🛠️ Projekte
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### [TalkDown](https://github.com/finex72/talkdown)
+Senkt automatisch die Spotify-Lautstärke, solange du deine Push-to-Talk-Taste (Joystick oder Tastatur) hältst oder in vPilot Funkverkehr zu hören ist – und blendet sie danach sanft wieder ein.
+Eine einzige `.exe`, keine Installation, Einrichtung per Knopfdruck.
 
----
+[⬇️ Download](https://github.com/finex72/talkdown/releases/latest) · [📖 Details](https://github.com/finex72/talkdown#readme)
 
-## 📂 Meine Projekte
+## ✈️ Interessen
 
-### 🎯 [JavaScript-Basics](https://github.com/finex72/JavaScript-Basics)
-Mini-Projekte zum Lernen: Speedlimit-Checker, Counter, Random Generator
+- Flugsimulation (MSFS 2024, VATSIM)
+- Tools & Automatisierung mit Python
+- Schule, Lernen und gute Werkzeuge dafür
 
----
+## 🧰 Womit ich arbeite
 
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=finex72&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
-
----
-
-## 🎯 Meine Ziele 2025
-
-- ✅ JavaScript Basics meistern
-- ⏳ React lernen
-- ⏳ Erstes Full-Stack Projekt
-- ⏳ Open Source beitragen
-- ⏳ 100+ GitHub Contributions
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=finex72&theme=react-dark&hide_border=true&area=true)
-
----
-
-**✨ "Code is like humor. When you have to explain it, it's bad." – Cory House**
-
----
-
-_Letztes Update: November 2025_
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
